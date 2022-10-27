@@ -1,6 +1,6 @@
 # Roberto
 
-A _really_ simple I.A discord bot written in rust.
+A _really_ simple A.I discord bot written in rust.
 
 ## Building and Running
 
